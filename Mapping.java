@@ -22,7 +22,7 @@ public class Mapping {
     public static void main(String[] args) {
 
         List<Employee> employees = new ArrayList<>();
-        employees.add(new Employee("Alice",   "Smith",   75000.00));
+        employees.add(new Employee("Khayal",   "Shafiyev",   75000.00));
         employees.add(new Employee("Bob",     "Johnson", 52000.50));
         employees.add(new Employee("Clara",   "Williams",98000.00));
         employees.add(new Employee("David",   "Brown",   43000.75));
